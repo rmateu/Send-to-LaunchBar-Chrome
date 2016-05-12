@@ -1,0 +1,1 @@
+void function(){(function(){var n=location.origin+location.pathname,o=encodeURIComponent(document.title),t=window.getSelection().toString(),i=o+"%0A"+n+"%0A"+t;window.location="x-launchbar:select?string="+i})()}();
