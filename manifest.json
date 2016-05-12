@@ -5,8 +5,8 @@
  "default_title": "Send to LaunchBar"
  },
  "name": "Send to LaunchBar",
- "description": "Sent Title, URL and any selected text Launchbar for Mac - Created with http://blog.self.li",
- "homepage_url": "http://5typos.net/send-launchbar-chrome-",
+ "description": "Sent Title, URL and any selected text to LaunchBar for Mac",
+ "homepage_url": "http://5typos.net/send-launchbar-chrome",
  "icons": {
      "16": "icon-16.png",
      "48": "icon-48.png",
